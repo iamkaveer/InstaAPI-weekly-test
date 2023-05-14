@@ -1,5 +1,6 @@
 # InstaAPI-weekly-test
-![Screenshot (190)](https://github.com/iamkaveer/InstaAPI-weekly-test/assets/41718548/1d6b3671-9e6b-4ac5-93e3-092351aaa67e)
+![Screenshot (191)](https://github.com/iamkaveer/InstaAPI-weekly-test/assets/41718548/9979a950-835d-4981-ac85-4aef0d04f29b)
+
 ### The model for the backend of Instagram includes two main entities: User and Post.
 User: This entity represents a user of the Instagram platform. It includes the following attributes:
 firstName: The first name of the user.
