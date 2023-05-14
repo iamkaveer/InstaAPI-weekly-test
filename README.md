@@ -1,4 +1,5 @@
 # InstaAPI-weekly-test
+![Screenshot (190)](https://github.com/iamkaveer/InstaAPI-weekly-test/assets/41718548/1d6b3671-9e6b-4ac5-93e3-092351aaa67e)
 ### The model for the backend of Instagram includes two main entities: User and Post.
 User: This entity represents a user of the Instagram platform. It includes the following attributes:
 firstName: The first name of the user.
@@ -26,3 +27,11 @@ In addition, the Post entity has a Many-to-One relationship with the User entity
 
 
 Overall, the model provides the necessary structure to represent users and their associated posts on the Instagram platform, enabling authentication, user information, and post data management.
+
+## Technologies
+The following technologies were used in this project:
+- Spring Boot
+- Lombok
+- Maven
+- java
+- Mysql  
